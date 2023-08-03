@@ -92,6 +92,7 @@ const Home = ({ setSelectedPage }: Props) => {
               <img alt="redbull-sponsor" src={SponsorRedBull} />
               <img alt="forbes-sponsor" src={SponsorForbes} />
               <img alt="fortune-sponsor" src={SponsorFortune} />
+              <img alt="redbull-sponsor" src={SponsorRedBull} />
             </div>
           </div>
         </div>
